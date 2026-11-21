@@ -1,0 +1,5 @@
+[
+  { "id": "whatsapp-weekend-plans", "title": "WhatsApp · Weekend plans", "platform": "whatsapp", "file": "whatsapp-weekend-plans.txt", "me": "Rahul" },
+  { "id": "slack-demo-deadline", "title": "Slack · Demo deadline", "platform": "slack", "file": "slack-demo-deadline.txt", "me": "Daniel Ortiz" },
+  { "id": "teams-vendor-report", "title": "Teams · Vendor report", "platform": "teams", "file": "teams-vendor-report.txt", "me": "Arjun Mehta" }
+]

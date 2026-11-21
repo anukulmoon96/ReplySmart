@@ -1,0 +1,12 @@
+Maya Chen  9:41 AM
+Morning! Quick one — the client demo got moved up to Thursday 2pm. Can we have the onboarding flow ready by then?
+Daniel Ortiz  9:44 AM
+Hmm, that's tight. The API side is done but the empty states still need design review.
+Maya Chen  9:45 AM
+Could we ship with placeholder empty states and polish after the demo?
+9:46 AM
+Also I need someone to run through the demo script with me on Wednesday
+Daniel Ortiz  9:52 AM
+Let me check with Sam on the design side
+Maya Chen  10:15 AM
+Any update? I need to tell the client by noon whether Thursday works 🙏
